@@ -7,3 +7,4 @@
 
 GitHub Pages は main ブランチの / (root) を公開元にします。
 サポートサイト: https://eiji127.github.io/marriage-form-creator-support/
+Fox Run サポート: https://eiji127.github.io/fox-run/ （プライバシーポリシー: https://eiji127.github.io/fox-run/privacy/）
